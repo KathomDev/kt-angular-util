@@ -1,0 +1,13 @@
+{
+  "name": "kt-angular-util",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
