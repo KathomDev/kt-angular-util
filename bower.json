@@ -1,0 +1,17 @@
+{
+  "name": "kt-angular-util",
+  "authors": [
+    "Thomas Greber <thomas@kathom.ch>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
